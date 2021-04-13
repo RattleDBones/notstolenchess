@@ -1,0 +1,5 @@
+<html>
+<div id="board1" style="width: 400px"></div>
+</html>
+<javascript>
+var board1 = Chessboard('board1', 'start')
